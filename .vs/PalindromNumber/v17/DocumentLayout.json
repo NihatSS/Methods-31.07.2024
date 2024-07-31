@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\PalindromNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24C1C044-AFD3-4537-A31F-F7788B690905}|PalindromNumber\\PalindromNumber.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\c#-tasks\\palindromnumber\\palindromnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C1C044-AFD3-4537-A31F-F7788B690905}|PalindromNumber\\PalindromNumber.csproj|solutionrelative:palindromnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\PalindromNumber\\PalindromNumber\\Program.cs",
+              "RelativeDocumentMoniker": "PalindromNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\PalindromNumber\\PalindromNumber\\Program.cs",
+              "RelativeToolTip": "PalindromNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:37:22.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
